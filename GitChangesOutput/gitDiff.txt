@@ -1,0 +1,95 @@
+M	scripts/chg-ibuyconfig.js
+M	src-cordova/package.json
+D	src-cordova/res/customPlugins/cardaily-inappwebview/README.md
+D	src-cordova/res/customPlugins/cardaily-inappwebview/package.json
+D	src-cordova/res/customPlugins/cardaily-inappwebview/scripts/apply-to-gradle.properties.js
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/InAppWebViewActivity.java
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/InAppWebViewPlugin.java
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/layout/prompt_dialog.xml
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/BlankViewController.h
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/BlankViewController.m
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/BlankViewController.xib
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/CertObj.h
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/CertObj.m
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/InAppWebViewPlugin.m
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/MyNavigationController.h
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/MyNavigationController.m
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/WKWebViewController.h
+D	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/WKWebViewController.m
+D	src-cordova/res/customPlugins/cardaily-inappwebview/www/InAppWebViewPlugin.js
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/.appveyor.yml
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/.asf.yaml
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/.eslintrc.yml
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/.gitattributes
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/.gitignore
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/.npmignore
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/.travis.yml
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/CONTRIBUTING.md
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/LICENSE
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/NOTICE
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/README.md
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/RELEASENOTES.md
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/package.json
+R051	src-cordova/res/customPlugins/cardaily-inappwebview/plugin.xml	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/plugin.xml
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/InAppBrowser.java
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/InAppBrowserDialog.java
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/InAppBrowserExitObj.java
+R085	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/TokenInfo.java	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/InAppBrowserTokenInfo.java
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/InAppChromeClient.java
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-hdpi/icon_arrow_left_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-hdpi/icon_arrow_left_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-hdpi/icon_arrow_right_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-hdpi/icon_arrow_right_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-hdpi/icon_close_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-hdpi/icon_close_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-hdpi/icon_share_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-hdpi/icon_share_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-mdpi/icon_arrow_left_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-mdpi/icon_arrow_left_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-mdpi/icon_arrow_right_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-mdpi/icon_arrow_right_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-mdpi/icon_close_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-mdpi/icon_close_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-mdpi/icon_share_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-mdpi/icon_share_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xhdpi/icon_arrow_left_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xhdpi/icon_arrow_left_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xhdpi/icon_arrow_right_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xhdpi/icon_arrow_right_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xhdpi/icon_close_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xhdpi/icon_close_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xhdpi/icon_share_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xhdpi/icon_share_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxhdpi/icon_arrow_left_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxhdpi/icon_arrow_left_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxhdpi/icon_arrow_right_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxhdpi/icon_arrow_right_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxhdpi/icon_close_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxhdpi/icon_close_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxhdpi/icon_share_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxhdpi/icon_share_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxxhdpi/icon_arrow_left_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxxhdpi/icon_arrow_left_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxxhdpi/icon_arrow_right_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxxhdpi/icon_arrow_right_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxxhdpi/icon_close_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxxhdpi/icon_close_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/drawable-xxxhdpi/icon_share_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/drawable-xxxhdpi/icon_share_black.png
+R094	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/layout/activity_in_app_webview.xml	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/layout/activity_in_app_webview.xml
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/values/webview_color.xml	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/values/webview_color.xml
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/android/values/webview_styles.xml	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/android/values/webview_styles.xml
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVInAppBrowserNavigationController.h
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVInAppBrowserNavigationController.m
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVInAppBrowserOptions.h
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVInAppBrowserOptions.m
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVWKInAppBrowser.h
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVWKInAppBrowser.m
+R091	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/WKWebViewController.xib	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVWKInAppBrowser.xib
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVWKInAppBrowserUIDelegate.h
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVWKInAppBrowserUIDelegate.m
+R075	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/CustomUIAlertController.h	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVWKUIAlertController.h
+R068	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/CustomUIAlertController.m	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/CDVWKUIAlertController.m
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_arrow_left_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_arrow_left_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_arrow_left_black@2x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_arrow_left_black@2x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_arrow_left_black@3x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_arrow_left_black@3x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_arrow_right_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_arrow_right_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_arrow_right_black@2x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_arrow_right_black@2x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_arrow_right_black@3x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_arrow_right_black@3x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_close_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_close_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_close_black@2x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_close_black@2x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_close_black@3x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_close_black@3x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_share_black.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_share_black.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_share_black@2x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_share_black@2x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/Images/icon_share_black@3x.png	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/Images/icon_share_black@3x.png
+R100	src-cordova/res/customPlugins/cardaily-inappwebview/src/ios/res/NotoSerifTC-Bold.ttf	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/src/ios/res/NotoSerifTC-Bold.ttf
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/types/index.d.ts
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/www/inappbrowser.css
+A	src-cordova/res/customPlugins/cordova-plugin-inappbrowser-richartlife/www/inappbrowser.js
+M	src/components/buweekly/buWeeklyPopup.vue
+M	src/components/buweekly/buWeeklyPopup2.vue
+M	src/components/buweekly/businessWeekly.vue
+M	src/components/pointCarousel.vue
+M	src/components/popups/stopAlertPopup.vue
+M	src/utilities/openInAppWebView.js
+M	src/views/letspay/bindPaymentTool/_bindTsAccount.vue
